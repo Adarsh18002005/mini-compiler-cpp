@@ -1,0 +1,7 @@
+# Variables, precedence, parentheses and printing
+let width = 8;
+let height = 5;
+let area = width * height;
+print area;
+print (area + 10) / 2;
+print -width + 3;
